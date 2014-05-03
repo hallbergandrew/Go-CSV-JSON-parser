@@ -1,3 +1,3 @@
-#Go lang, JSON to CSV parser
+#Go lang, CSV 2 JSON parser
 
 ## One of my first go programs!
